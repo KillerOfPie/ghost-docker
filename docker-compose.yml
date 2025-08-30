@@ -235,4 +235,3 @@ networks:
   internal:
     name: ${COMPOSE_PROJECT_NAME}_INTERNAL_NET
     attachable: false
-    internal: true
